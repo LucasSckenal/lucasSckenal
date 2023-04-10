@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSckenal&show_icons=true&theme=github_dark)
-[![Top Langs]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasSckenal&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
