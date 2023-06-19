@@ -6,16 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gamer
-    <a href="https://steamcommunity.com/id/glxassyikki/" target="_blank">
-      <img
-           width="2%" 
-           align="center" 
-           valign="middle" 
-           src="https://cdn.discordapp.com/attachments/763535395039870996/1099882276986298388/steam_alt_macos_bigsur_icon_189698.png" 
-           target="_blank" 
-      />
-    </a>  
+    Sou Desenvolvedor Front End
   </p>
   
   <p align="center">
