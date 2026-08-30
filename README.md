@@ -7,9 +7,7 @@
 <p>Full-stack developer. Web com React/TypeScript, sistemas com C/C++/C#, e jogos com Godot nas horas vagas.</p>
 
 <a href="https://portifoliolucassckenal.vercel.app/" target="_blank">
-  <img src="assets/portfolio-preview.jpg" width="480" alt="Preview do portfólio" />
-  <br>
-  <img src="https://img.shields.io/badge/Ver%20Portfólio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="assets/portfoliopreview.jpg" width="480" alt="Preview do portfólio" />
 </a>
 
 <br><br>
