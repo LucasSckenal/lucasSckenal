@@ -1,60 +1,51 @@
-<div>
-  
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    Lucas Sckenal
-  </h1>
-  
-  <p align="center">
-    Sou Desenvolvedor Front End
-  </p>
-  
-  <p align="center">
-  </p>
-  
-</div>
-
-<div align="center">
-  <a href="https://github.com/lucasSckenal">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasSckenal&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasSckenal&theme=github_dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <a href="https://steamcommunity.com/id/glxassyikki/" target="_blank">
-      <img
-           width="3.5%" 
-           align="center" 
-           valign="middle" 
-           src="https://cdn.discordapp.com/attachments/763535395039870996/1099882276986298388/steam_alt_macos_bigsur_icon_189698.png" 
-           target="_blank" 
-      />
-    </a>  
- 
-</div><br>
-
-<div align="center">
-   <a href="https://www.youtube.com/channel/UCZ6bakkIU2ig-LlrBOfDq7g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lucas.sckenal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/ikkislow" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Spd5WDdCxs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:lucaspsckenal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
-
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D0D0D,100:1A1A1A&text=Lucas%20Sckenal&fontColor=FFFFFF&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer&descAlignY=62&descSize=18" width="100%"/>
 
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=9C9C9C&center=true&vCenter=true&width=460&lines=C+%2F+C%2B%2B+%2F+C%23+%2F+Java+%2F+Python;React+%2F+JavaScript+%2F+TypeScript;Game+dev+com+Godot;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-000000?style=flat-square&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+
+<br><br>
+
+<a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/lucas.sckenal" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://www.twitch.tv/ikkislow" target="_blank"><img src="https://img.shields.io/badge/Twitch-000000?style=flat-square&logo=twitch&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCZ6bakkIU2ig-LlrBOfDq7g" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white" /></a>
+<a href="https://discord.gg/Spd5WDdCxs" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white" /></a>
+
+<br><br>
+
+### 🚀 Projetos em destaque
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSckenal&repo=strata&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="150em" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSckenal&repo=Portifolio-2026&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="150em" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSckenal&repo=GuessQuest&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="150em" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucasSckenal&show_icons=true&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="165em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasSckenal&layout=compact&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&langs_count=8" height="165em" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1A1A1A,100:0D0D0D&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
