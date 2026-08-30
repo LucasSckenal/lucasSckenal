@@ -30,22 +30,6 @@
 
 <br><br>
 
-### 🚀 Projetos em destaque
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSckenal&repo=strata&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="150em" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSckenal&repo=Portifolio-2026&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="150em" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasSckenal&repo=GuessQuest&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="150em" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lucasSckenal&show_icons=true&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&icon_color=FFFFFF" height="165em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasSckenal&layout=compact&hide_border=true&bg_color=transparent&title_color=FFFFFF&text_color=9C9C9C&langs_count=8" height="165em" />
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1A1A1A,100:0D0D0D&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
